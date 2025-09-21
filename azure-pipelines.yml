@@ -13,4 +13,5 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: cat README.md
+- script: cat file1
+  displayName: Run cmd. 
